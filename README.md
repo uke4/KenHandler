@@ -24,11 +24,11 @@
 
 ### 3. Install Dependencies
 ```bash
-npm install```
+npm install
 
 ### 4. Start The Bot
 ```bash
-node index.js```
+node index.js
 
 ### 5. ⚔️ Slash Commands Guide
 
