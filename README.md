@@ -6,7 +6,7 @@
 
 ---
 
-### [Join the Support Server](https://discord.gg/YOUR_INVITE_LINK) | [Visit Website](https://yourwebsite.com)
+### [Join the Support Server](https://discord.gg/YOUR_INVITE_LINK) 
 
 </div>
 
@@ -28,8 +28,7 @@ npm install```
 
 ### 4. Start The Bot
 ```bash
-node index.js
-```
+node index.js```
 
 ### 5. ⚔️ Slash Commands Guide
 
