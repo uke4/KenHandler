@@ -6,7 +6,7 @@
 
 ---
 
-### [Join the Support Server](https://discord.gg/YOUR_INVITE_LINK) 
+### [Join the Support Server](https://discord.gg/Q4ZzJFBDqk) 
 
 </div>
 
