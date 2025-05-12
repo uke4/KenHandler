@@ -23,11 +23,12 @@
 - Open `./botconfig/embed.json` to customize **embed appearance**
 
 ### 3. Install Dependencies
-```bash
-npm install
+
+`bash
+npm install`
 
 ### 4. Start The Bot
-```bash
+bash
 node index.js
 
 ### 5. ⚔️ Slash Commands Guide
