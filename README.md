@@ -1,10 +1,10 @@
-# Discord-Js-Handler-Template
+# Kɛn Handler Template
 
 
 ***
 
 
-### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/Q4ZzJFBDqk)
 
 ***
 
@@ -44,8 +44,8 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/milrato">
+## [Discord Server 🔗](https://discord.gg/milrato) | [Website](https://milrato.dev)
+<a href="https://discord.gg/Q4ZzJFBDqk">
 
 ***
 
