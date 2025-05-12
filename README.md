@@ -1,44 +1,54 @@
-<div align="center">
+# Discord-Js-Handler-Template
+
+
+***
+
+
+### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
+***
+
+## Installation Guide
+
+<br/>
+- have **node.js v16.6 or higher**
+
+- in `./botconfig/config.json` Adjust the BOT TOKEN and PREFIX
+
+- in `./botconfig/settings.json` Adjust the DEFAULT MESSAGES AND OTHER SETTINGS
+
+- in `./botconfig/embed.json` Adjust the EMBED SETTINGS
+
+- `npm install` to Install the depedences
+
+- `node .` to start the Bot
+
+<br/>
+<br/>
+
+***
+
+<br/>
+
+## Slash Commands Information
+
+> To add a Subcommand create a Folder in `./slashCommands`
+
+> Make sure to add it's Settings in `./botconfig/config.json`
+
+> You can't have more folder then 1 Layer
+
+> If u want to create "normal" Slash commands create the files just in `./slashCommands`
+
+<br/>
   
-# Discord.js Handler Template
+***
 
-**A simple and modular Discord bot handler template built using Discord.js v16**
+## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
+<a href="https://discord.gg/milrato">
 
----
+***
 
-### [Join the Support Server](https://discord.gg/Q4ZzJFBDqk) 
+# Credits
 
-</div>
-
----
-
-## 📦 Installation Guide
-
-### 1. Requirements
-- **Node.js v16.6.0 or higher**
-
-### 2. Setup
-- Open `./botconfig/config.json` and update your **Bot Token** and **Prefix**
-- Open `./botconfig/settings.json` to configure **default messages** and **bot settings**
-- Open `./botconfig/embed.json` to customize **embed appearance**
-
-### 3. Install Dependencies
-
-`npm install`
-
-### 4. Start The Bot
-`node index.js`
-
-### 5. ⚔️ Slash Commands Guide
-
-- To create a subcommand, add a folder inside ./slashCommands
-- Be sure to register it in ./botconfig/config.json
-- Only one folder level is supported (no nested folders)
-- For regular slash commands, create .js files directly inside ./slashCommands
-
-### 6. 💡 Credits
-
-- If you use this handler or template, please credit the original creator.
-
-
-> Made with love by Kɛn ᡣ𐭩.
+> If consider using this Bot, make sure to credit me!
