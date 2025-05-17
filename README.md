@@ -44,8 +44,7 @@
   
 ***
 
-## [Discord Server 🔗](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/Q4ZzJFBDqk">
+## [Discord Server 🔗](https://discord.gg/)
 
 ***
 
